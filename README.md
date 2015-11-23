@@ -2,5 +2,5 @@
 Software in lavorazione.
 
 Oggetto di programmazione attuale: 
-- creazione della lista pesate di un ordine. 80%
+- creazione dell'interfaccia relativa alla lista pesate di un ordine. 80%
 
